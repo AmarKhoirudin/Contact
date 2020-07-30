@@ -29,7 +29,7 @@ const Home = (props) => {
   };
   return (
     <div className="container">
-      <table className="highlight responsive-table">
+      <table className="highlight">
         <thead>
           <tr>
             <th>No</th>
